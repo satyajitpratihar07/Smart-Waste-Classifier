@@ -98,7 +98,3 @@ Real-time camera-based detection
 
 Satyajit Pratihar
 IT Student | Beginner in AI/ML | Sustainability Enthusiast 🌍
-
-📊 PPT Presentation
-🌐 Portfolio page write-up
-📱 App UI concept
