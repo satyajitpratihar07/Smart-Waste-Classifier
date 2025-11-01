@@ -99,14 +99,6 @@ Real-time camera-based detection
 Satyajit Pratihar
 IT Student | Beginner in AI/ML | Sustainability Enthusiast 🌍
 
-⭐ Support
-
-If you found this useful, please ⭐ the repo and share it!
-Feedback & contributions are welcome 😊
-
-Would you like me to now generate your:
-
-📄 Internship Report
 📊 PPT Presentation
 🌐 Portfolio page write-up
 📱 App UI concept
